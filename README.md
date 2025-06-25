@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi! I'm Kamil — a frontend developer focused on Vue 3 and Nuxt. I enjoy building well-structured applications, custom tooling, and improving developer experience. I care about clean architecture, automation, and making teams move faster through thoughtful code.
+Hi! I'm Kamil - a frontend developer focused on Vue 3 and Nuxt. I enjoy building well-structured applications, custom tooling, and improving developer experience. I care about clean architecture, automation, and making teams move faster through thoughtful code.
 
 ---
 
