@@ -6,8 +6,8 @@ Hi! I'm Kamil - a frontend developer focused on Vue 3 and Nuxt. I enjoy building
 
 ## 🛠️ Tech Stack
 
-**Languages**: TypeScript, JavaScript, Python, PHP, C#, SQL
-**Frameworks & Tools**: Nuxt, Vue 3 & 2, Node, Laravel, Tailwind, Prisma, Drizzle, ESLint, Docker, Unity
+#### Languages: TypeScript, JavaScript, Python, PHP, C#, SQL
+#### Frameworks & Tools: Nuxt, Vue 3 & 2, Node, Laravel, Tailwind, Prisma, Drizzle, ESLint, Docker, Unity
 
 ---
 
